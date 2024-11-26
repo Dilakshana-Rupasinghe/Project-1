@@ -1,0 +1,54 @@
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\bin\Debug\ICT PROJECT.exe.config
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\bin\Debug\ICT PROJECT.exe
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\bin\Debug\ICT PROJECT.pdb
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT PROJECT.csproj.AssemblyReference.cache
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT_PROJECT.Form1.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT_PROJECT.Properties.Resources.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT PROJECT.csproj.GenerateResource.cache
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT PROJECT.csproj.CoreCompileInputs.cache
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT PROJECT.exe
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT PROJECT.pdb
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT_PROJECT.Form2.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT_PROJECT.Form3.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT_PROJECT.Form4.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT_PROJECT.Form5.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT_PROJECT.Form6.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT_PROJECT.Form7.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT_PROJECT.Form8.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\ICT PROJECT\obj\Debug\ICT_PROJECT.Form9.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\bin\Debug\ICT PROJECT.exe.config
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\bin\Debug\ICT PROJECT.exe
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\bin\Debug\ICT PROJECT.pdb
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT PROJECT.csproj.AssemblyReference.cache
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form1.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form2.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form3.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form4.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form5.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form6.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form7.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form8.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form9.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Properties.Resources.resources
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT PROJECT.csproj.GenerateResource.cache
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT PROJECT.csproj.CoreCompileInputs.cache
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT PROJECT.exe
+D:\BIT\BIT SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT PROJECT.pdb
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\bin\Debug\ICT PROJECT.exe.config
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\bin\Debug\ICT PROJECT.exe
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\bin\Debug\ICT PROJECT.pdb
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT PROJECT.csproj.AssemblyReference.cache
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form1.resources
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form2.resources
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form3.resources
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form4.resources
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form5.resources
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form6.resources
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form7.resources
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form8.resources
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Form9.resources
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT_PROJECT.Properties.Resources.resources
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT PROJECT.csproj.GenerateResource.cache
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT PROJECT.csproj.CoreCompileInputs.cache
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT PROJECT.exe
+D:\BIT\BIT 1ST YR SEM 2 Assignments\ICT Project\ICT PROJECT VS\ICT PROJECT\obj\Debug\ICT PROJECT.pdb
